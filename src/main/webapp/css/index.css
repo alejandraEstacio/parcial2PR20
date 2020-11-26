@@ -1,0 +1,44 @@
+#insertBTN{
+    background: #63abd4;
+    color: rgb(255, 255, 255);
+}
+
+#t1{
+    background: #63abd4;
+    color: rgb(255, 255, 255);
+}
+#t2{
+    background: #63abd4;
+    color: rgb(255, 255, 255);
+}
+#t3{
+    background: #63abd4;
+    color: rgb(255, 255, 255);
+}
+
+.tareaComponent{
+    background: rgb(229, 241, 241);
+    padding: 20px;
+    margin: 10px auto;
+    width:400px;
+    position: relative;
+}
+
+.delBtn{
+position: absolute;
+background: red;
+right:0;
+top:0;
+}
+
+.modBtn{
+    background:rgb(100, 149, 240);
+    right:0;
+    top:0;
+}
+
+.volBtn{
+    background:rgb(236, 253, 83);
+    right:0;
+    top:0;
+}
